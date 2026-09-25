@@ -287,26 +287,6 @@ Focused on working with structured data, warehouse concepts and analytical SQL w
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harsh-rautela&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-rautela&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=harsh-rautela&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 💭 Engineering Mindset
 
 > **Don't just use the abstraction. Understand what's underneath it.**
